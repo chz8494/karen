@@ -1,0 +1,10 @@
+body { background-color:#f55438!important; background-image: url( "../images/bokeh.png" )!important; background-repeat: no-repeat; background-position: center -300px; }
+#loginform, #lostpasswordform, #resetpassform { box-shadow:none!important; border:none!important; background:none; padding-left:0px; padding-right:0px; }
+#login h1 { display:none; }
+#login p#nav, #login p#backtoblog, #login p#nav a, #login p#backtoblog a, label, #login_error, p.message, #login_error a, p.message a, p.description { color:#ffffff!important; text-shadow: 1px 1px 0px #b93c26!important; }
+#login p#nav, #login p#backtoblog { padding-left:0px; padding-right:0px; }
+#login p#nav a, #login p#backtoblog a { font-weight:bold; }
+#loginform p label input.input, #lostpasswordform p label input.input, #resetpassform p label input.input { border-radius:5px; color:#ffffff; padding:9px 12px; background:#d64931; border-top:1px solid #ba432e; border-left:1px solid #ba432e; border-bottom:1px solid #ff7861; border-right:1px solid #ff7861; box-shadow: inset 1px 1px 2px 0px #c1432d; }
+#loginform p.submit input#wp-submit, #lostpasswordform p.submit input#wp-submit, #resetpassform p.submit input#wp-submit { font-size:16px; padding:6px 24px 6px 24px; font-weight:700; height:auto!important; box-shadow:none; border-radius:5px; color:#ffffff; background-image: url( "../images/bg-button-red.png" ); text-shadow: 1px 1px 0px #a22e1a; border-top:1px solid #f68e7c; border-left:1px solid #f68e7c; border-right:1px solid #ca3a20; border-bottom:1px solid #ca3a20; }
+#login_error, p.message { border:none!important; box-shadow:none!important; background:none!important; padding:0px!important; font-weight:bold; }
+#resetpassform #pass-strength-result { padding-left:0px; padding-right:0px; width:100%; border:none; overflow:hidden; }

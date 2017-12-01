@@ -1,0 +1,4 @@
+@media screen and (max-width:400px)
+{
+.profile-fields td.label { min-width:50px; }
+}

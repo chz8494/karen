@@ -1,0 +1,32 @@
+body { background:#f53871; }
+.slider-text-a2 span { color:#f53871; }
+.recent-post-thumb { border-right:3px solid #f53871; border-bottom:3px solid #f53871; }
+.slider-text-a1, .slider-text-a3, .slider-text-b1, .slider-text-b2, .slider-text-b3 { text-shadow: 1px 1px 0px #c2252d; }
+.buttonCon .theButton {background: url("../images/alternative/circlebutton_3.png") no-repeat; }
+#container { background-image: url( "../images/alternative/spacer-v_3.png" ); }
+#slider-spacer, .front-spacer { background-image: url( "../images/alternative/spacer-h_3.png" ); }
+.front-spacer-v { background-image: url( "../images/alternative/spacer-v_3.png" ); }
+.vcard-avatar { background: url( "../images/alternative/avatar_3.png" ); }
+.customStyleSelectBoxInner, .item-list-tabs .customStyleSelectBoxInner { background:url( "../images/alternative/select_3.png" ) no-repeat right center; }
+.older-entries a, .newer-entries a, #create-group-button, .color-button, #respond #comment-submit, #wp-submit, #signup_submit, .wpcf7-submit, .page-template-search-page-php #search-submit, body.activate #activation-form p.submit input, #group-settings-form .edit, #group-settings-form #save, .bbp-pagination-links .page-numbers, .bp-user .bbp-pagination-links .page-numbers, #group-creation-create, #group-creation-next, #group-creation-finish, #group-creation-previous, #group-request-send, .pagination-links .page-numbers, #subscription-toggle a, #favorite-toggle a { background-image: url( "../images/alternative/bg-button-red_3.png" ); text-shadow: 1px 1px 0px #a21a43; border-top:1px solid #f67ca1; border-left:1px solid #f67ca1; border-right:1px solid #ca2052; border-bottom:1px solid #ca2052; }
+h3.rtt, h2.entry-title, .group-forum-topic #bbpress-forums h3, .activity-pg-desc, #blog-search h3 a, #group-create-body, #group-create-body h4, #group-create-body label, .sub-title-d, #sidebar ul.item-list li div.item-title a, #members-list-options, .widget_recent_comments ul#recentcomments li, .widget_display_views ul li, .tagcloud a, #sidebar .textwidget p, .no-background .page-title, body.registration .page-title, .page-template-login-php .page-title, .page-template-contact-php .page-title, .directory.members .page-title, .page-title-bold, .sub-title-bold, .registration #content, .page-template-login-php #content, .page-template-contact-php #content, .page-template-onecolumn-page-php #content, .page-template-recovery-php #content, body.activate #content, .registration #content a, .page-template-login-php #content a, .page-template-recovery-php #content a, body.activate #content a, #content.no-background, #content.no-background a, #content#error404, div#sidebar div.sidebar-box .sidebar-title, div#sidebar div.sidebar-box .sidebar-title a, #object-nav ul li a, div.bbp-topic-tags, #respond, #comments-number, body.registration h1, body.registration h2, body.registration h3, body.registration h4, body.registration h5, body.registration h6, body.page-template-onecolumn-page-php h1, body.page-template-onecolumn-page-php h2, body.page-template-onecolumn-page-php h3, body.page-template-onecolumn-page-php h4, body.page-template-onecolumn-page-php h5, body.page-template-onecolumn-page-php h6, .my-friends #pag-bottom, div.pagination .pag-count, .sub-title-m, .sub-title-m a, .widget-logged-content-1, widget-logged-content-1 a, #subnav ul li a, #blogs-list li, .create-blog #content, .create-blog #content p, body.request-membership #item-body p, #request-membership-form label, .sent-message, .page-template-default h1, .page-template-default h2, .page-template-default h3, .page-template-default h4, .page-template-default h5, .page-template-default h6, .error404 p { text-shadow: 1px 1px 0px #b92652; }
+#header-bar { border-bottom:3px solid #d63163; }
+#blog-search h3 { border-bottom:1px solid #d63163; }
+div#topic-post-list ul li, ul#activity-stream li.activity-item, .group-box, ul#blog-categories-left a, ul#blog-categories-right a, .recent-post-title, ul li.forum-lastposts .activity-content, .commentlist div.comment-content, #members-list li { border-right:1px solid #cb2657; border-bottom:1px solid #cb2657; }
+.widget_ddlogin .avatar, .front-member-item img, #metro .tile { box-shadow: 2px 2px 7px 0px #c2252d; }
+#metro .tile4 { box-shadow:none; }
+#login-form #login-username, #login-form #login-pass, .wpcf7-text, .wpcf7-form-control-wrap textarea, #page-user-login, #page-user-pass, .register-section input[type=text], .register-section input[type=password], .comment-content input[type=text], #respond textarea#comment, #blogname, #blog_title, #group-request-membership-comments, .register-section input[type=email], #members_search { background:#d63163; border-top:1px solid #ba2e58; border-left:1px solid #ba2e58; border-bottom:1px solid #ff6191; border-right:1px solid #ff6191; box-shadow: inset 1px 1px 2px 0px #c12d5a; }
+#page-user-login, #page-user-pass:focus, .register-section input[type=text]:focus, .register-section input[type=password]:focus, .comment-content input[type=text]:focus, #respond textarea#comment:focus, #blogname:focus, #blog_title:focus, .register-section input[type=email]:focus { background:#d63163; }
+#object-nav { background-image: url( "../images/alternative/bg-tabs_3.png" ); border-left:1px solid #fa5d8c; border-top:1px solid #fa5d8c; border-right:1px solid #ce3462; border-bottom:1px solid #ce3462; }
+#object-nav ul li { background-image: url( "../images/alternative/spacer-tabs_3.png" ); background-repeat:repeat-y; }
+#group-create-tabs { border-top:1px solid #fb7e83; border-bottom:1px solid #fb7e83; }
+.post-details-category a { background:#c34d2f; }
+.bbp-author-role { background:#eb2b33; }
+.bbp-pagination-count, .bp-user .bbp-pagination-count { text-shadow: 1px 1px 0px #b62c32; }
+.topic-counter { color:#fa414a; }
+#login-form #login-username.hoverTextActive, #login-form #login-pass.hoverTextActive { color:#f67ca1; }
+
+@media screen and (max-width:960px)
+{
+.sidebar-box { background-image: url( "../images/alternative/spacer-h_3.png" ); background-repeat: repeat-x; }
+}

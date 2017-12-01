@@ -1,0 +1,4 @@
+body { background-color:#386df5!important; }
+#login p#nav, #login p#backtoblog, #login p#nav a, #login p#backtoblog a, label, #login_error, p.message, #login_error a, p.message a, p.description { text-shadow: 1px 1px 0px #264fb9!important; }
+#loginform p label input.input, #lostpasswordform p label input.input, #resetpassform p label input.input { background:#3160d6; border-top:1px solid #2e55ba; border-left:1px solid #2e55ba; border-bottom:1px solid #618eff; border-right:1px solid #618eff; box-shadow: inset 1px 1px 2px 0px #2d57c1; }
+#loginform p.submit input#wp-submit, #lostpasswordform p.submit input#wp-submit, #resetpassform p.submit input#wp-submit { background-image: url( "../alternative/images/bg-button-red_2.png" ); text-shadow: 1px 1px 0px #1a40a2; border-top:1px solid #7c9ef6; border-left:1px solid #7c9ef6; border-right:1px solid #204fca; border-bottom:1px solid #204fca; }

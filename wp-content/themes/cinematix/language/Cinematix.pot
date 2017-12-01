@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinematix\n"
+"POT-Creation-Date: 2013-12-02 13:15+0100\n"
+"PO-Revision-Date: 2013-12-02 13:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: ..\n"
+
+#: ../404.php ../archive.php:69
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: ../header.php
+msgid "Login"
+msgstr ""
+
+#: ../header.php
+msgid "Register"
+msgstr ""
+
+#: ../registration/register.php
+msgid "Create an Account"
+msgstr ""
+
+#: ../recovery.php
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: ../archive.php:59 ../blog-full.php:64 ../blog.php:64
+msgid "Read more"
+msgstr ""
+
+#: ../blog-full.php:72 ../blog.php:72 ../functions.php:406 ../search.php:22
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: ../blog-full.php:73 ../blog.php:73 ../functions.php:407 ../search.php:23
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: ../comments.php:3
+msgid "Password Protected"
+msgstr ""
+
+#: ../comments.php:4
+msgid "Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:26
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:26
+msgid "One Response"
+msgstr ""
+
+#: ../comments.php:26
+msgid "% Responses"
+msgstr ""
+
+#: ../comments.php:45
+#, php-format
+msgid ""
+"Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post"
+"\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: ../contact.php:25 ../onecolumn-page.php:24 ../page.php:29 ../page2.php:37
+msgid "<p class=\"serif\">Read the rest of this page &rarr;</p>"
+msgstr ""
+
+#: ../contact.php:27 ../onecolumn-page.php:26 ../page.php:31 ../page2.php:39
+#: ../single.php:48
+msgid "Pages: "
+msgstr ""
+
+#: ../frontpage1.php:57 ../frontpage2.php:236
+msgid "Our Members"
+msgstr ""
+
+#: ../frontpage1.php:78 ../frontpage2.php:257
+msgid "Our Groups"
+msgstr ""
+
+#: ../frontpage1.php:82 ../frontpage2.php:261 ../groups/groups-loop.php:19
+msgid "Popular"
+msgstr ""
+
+#: ../frontpage1.php:83 ../frontpage1.php:104 ../frontpage1.php:141
+#: ../frontpage1.php:179 ../frontpage1.php:216 ../frontpage2.php:262
+#: ../frontpage2.php:283 ../frontpage2.php:320 ../frontpage2.php:358
+#: ../frontpage2.php:395 ../groups/groups-loop.php:20
+#: ../groups/groups-loop.php:41 ../groups/groups-loop.php:78
+#: ../groups/groups-loop.php:116 ../groups/groups-loop.php:153
+msgid "Active"
+msgstr ""
+
+#: ../frontpage1.php:84 ../frontpage2.php:263 ../groups/groups-loop.php:21
+msgid "Alphabetical"
+msgstr ""
+
+#: ../frontpage1.php:85 ../frontpage2.php:264 ../groups/groups-loop.php:22
+msgid "Newest"
+msgstr ""
+
+#: ../frontpage1.php:250 ../frontpage2.php:429
+msgid "On the Forums"
+msgstr ""
+
+#: ../functions.php:138
+msgid ""
+"Your profile has unsaved changes. If you leave the page, the changes will be "
+"lost."
+msgstr ""
+
+#: ../functions.php:225
+#, php-format
+msgid ""
+"<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> said on <a href=\"%3$s\"><span "
+"class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: ../functions.php:232
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:244
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:318
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:320
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:328
+#, php-format
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../functions.php:330
+msgid "Leave a reply"
+msgstr ""
+
+
+#: ../functions.php:590
+msgid "Hello"
+msgstr ""
+
+#: ../functions.php:592
+msgid "messages"
+msgstr ""
+
+#: ../functions.php:593
+msgid "settings"
+msgstr ""
+
+#: ../functions.php:636 ../login.php:29
+msgid "Username"
+msgstr ""
+
+#: ../functions.php:637 ../login.php:32
+msgid "Password"
+msgstr ""
+
+#: ../functions.php:644 ../login.php:35
+msgid "Remember Me"
+msgstr ""
+
+#: ../functions.php:644 ../login.php:35
+msgid "recovery"
+msgstr ""
+
+#: ../functions.php:644 ../login.php:35
+msgid "Password Recovery"
+msgstr ""
+
+#: ../functions.php:677
+msgid "Recent posts"
+msgstr ""
+
+#: ../functions.php:774
+msgid "Menu"
+msgstr ""
+
+#: ../login.php:15 ../recovery.php:14
+msgid "You are logged in! Redirecting to your profile."
+msgstr ""
+
+#: ../login.php:38
+msgid "Log In"
+msgstr ""
+
+#: ../recovery.php:28
+msgid "Username or Email"
+msgstr ""
+
+#: ../recovery.php:33
+msgid "Reset my password"
+msgstr ""
+
+#: ../recovery.php:34
+msgid "A message will be sent to your email address."
+msgstr ""
+
+#: ../search-page.php:15
+msgid "Search for:"
+msgstr ""
+
+#: ../search-page.php:19 ../searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: ../search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:28
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: ../single.php:46
+msgid "Read the rest of this entry &rarr;"
+msgstr ""
+
+#: ../single.php:73
+msgid "Related Posts"
+msgstr ""
+
+#: ../single.php:95
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:53 ../bbpress/loop-single-topic.php:53
+msgid "Started by"
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:84 ../bbpress/loop-single-forum.php:43
+#: ../bbpress/loop-single-topic.php:84
+msgid "Last post by "
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:53
+msgid "on"
+msgstr ""
+
+#: ../bbpress/loop-mysingle-topic.php
+msgid "in"
+msgstr ""
+
+#: ../groups/index.php:14
+msgid "All Groups"
+msgstr ""
+
+#: ../groups/create.php
+msgid "Groups Directory"
+msgstr ""
+
+#: functions.php:601
+#, php-format
+msgid "You have %d notification!"
+msgid_plural "You have %d notifications!"
+msgstr[0] ""
+msgstr[1] ""

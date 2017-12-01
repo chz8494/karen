@@ -1,0 +1,46 @@
+body { background:#ffffff; }
+body, a, div.bbp-topic-tags, .bbp-pagination, .bbp-pagination-count, .bp-user .bbp-pagination-count, .bbp-pagination-links .page-numbers, .bp-user .bbp-pagination-links .page-numbers, .slider-text-a1, .slider-text-a3, .sub-title-m a, .slider-text-b1, .slider-text-b2, .slider-text-b3, .page-template-onecolumn-page-php .entry a, .registration #content, .page-template-login-php #content, .page-template-contact-php #content, .page-template-onecolumn-page-php #content, .page-template-recovery-php #content, body.activate #content, .registration#content a, .page-template-login-php #content a, .page-template-recovery-php #content a, body.activate #content a, #content.no-background, #content.no-background a, #content#error404, .page-title, .page-title-bold, .sub-title-bold, .no-background .page-title, body.registration .page-title, .page-template-login-php .page-title, .page-template-contact-php .page-title, .directory.members .page-title, .page-template-page2-php .page-title, .sidebar-box, div#sidebar div.sidebar-box .sidebar-title, div#sidebar div.sidebar-box .sidebar-title a, .sidebar-box a, #sidebar .textwidget p, #sidebar ul.item-list li div.item-title a, .recent-post-title, .recent-post-title a, .widget_ddlogin, .widget-logged-content-1, .widget-logged-content-1 a, .wl-box, .wl-set, .wl-logout, .vcard-bg a, #login-form #login-username, #login-form #login-pass, #login-form #login-username.hoverTextActive, #login-form #login-pass.hoverTextActive, .sub-title-d, .sub-title-m a, #group-create-tabs ul li, #group-create-tabs ul li a, #group-create-tabs ul li span, #group-create-tabs ul li.current a, #group-create-body, #group-create-body h4, #group-create-body label, #blog-search h3 a, h1, h2, h3, h4, h5, h6, body.registration h1, body.registration h2, body.registration h3, body.registration h4, body.registration h5, body.registration h6, body.page-template-onecolumn-page-php h1, body.page-template-onecolumn-page-php h2, body.page-template-onecolumn-page-php h3, body.page-template-onecolumn-page-php h4, body.page-template-onecolumn-page-php h5, body.page-template-onecolumn-page-php h6, div.pagination, .directory.members div.pagination, .my-friends #pag-bottom, #comments-number, #respond, #reply-title, #respond input#author, #respond input#email, #respond input#url, #respond textarea#comment, .wpcf7-text, .wpcf7-form-control-wrap textarea, .members-sorting label, #group-settings-form label, #group-settings-form h4, #group-settings-form p, #activity-filter-select label, .item-list-tabs #activity-filter-select label, .item-list-tabs #members-order-select label, #forums-order-select label, #subnav ul li a, h3.rtt, .group-forum-topic #bbpress-forums h3, #pag-bottom .pag-count, .activity-pg-desc, #blogs-list li, .create-blog #content, .create-blog #content p, body.request-membership #item-body p, #request-membership-form label, .pagination-links .page-numbers, #subscription-toggle a, #favorite-toggle a, h2.entry-title, .sent-message, .page-template-default h1, .page-template-default h2, .page-template-default h3, .page-template-default h4, .page-template-default h5, .page-template-default h6, .activity-greeting, #whats-new-post-in-box, #group_members-order-select label, .error404 p { text-shadow:none; color:#2c2c2c; }
+#container { background-image: url( "../images/alternative/spacer-v_10.png" ); }
+#slider-spacer, .front-spacer { background-image: url( "../images/alternative/spacer-h_10.png" ); }
+.front-spacer-v { background-image: url( "../images/alternative/spacer-v_10.png" ); }
+.buttonCon .theButton {background: url("../images/alternative/circlebutton_10.png") no-repeat; }
+a.slider-join { background-image: url( "../images/alternative/go_10.png" ); }
+.vcard-avatar { background: url( "../images/alternative/avatar_10.png" ); }
+.customStyleSelectBoxInner, .item-list-tabs .customStyleSelectBoxInner { background:url( "../images/alternative/select_10.png" ) no-repeat right center; }
+footer { border-top:6px solid #dddddd; }
+#object-nav { border-left:none; border-top:none; border-right:none; border-bottom:none; }
+#object-nav ul li { background-repeat:repeat-y; }
+#header-bar { border-bottom:3px solid #cfcfcf; }
+.widget_ddlogin .avatar, .front-member-item img { padding:3px; border:1px solid #cfcfcf; box-shadow: 3px 3px 0px 0px #cfcfcf; }
+#metro .tile { border-color:#e1e1e1; box-shadow: none; }
+#metro .tile4 { padding:0px; border:none; }
+div#topic-post-list>ul>li, ul#activity-stream li.activity-item, .group-box, ul#blog-categories-left a, ul#blog-categories-right a, .recent-post-title, ul li.forum-lastposts .activity-content, .commentlist div.comment-content, #members-list li, form#whats-new-form textarea { border:1px solid #dddddd; overflow:hidden; }
+.widget_bp_core_members_widget #members-list li { border:none; }
+#members-list-options { color:#989898; text-shadow:none; }
+.recent-post-thumb { border-right:3px solid #ffffff; border-bottom:3px solid #ffffff; }
+#blog-search h3 { border-bottom:1px solid #cfcfcf; }
+#group-create-tabs { border-top:1px solid #cfcfcf; border-bottom:1px solid #cfcfcf; }
+ul li.forum-lastposts, #comments ol.commentlist li, #comments ol.commentlist li ul.children li ul.children li, #comments ol.commentlist li ul.children li ul.children li ul.children li { background-image: url( "../images/alternative/buble_10.png" ); }
+.recent-post-thumb { border-right:0px solid #ffffff; border-bottom:0px solid #ffffff; }
+.recent-post-thumb img { border:5px solid #dddddd; }
+.older-entries a, .newer-entries a, #create-group-button, .color-button, #respond #comment-submit, #wp-submit, #signup_submit, .wpcf7-submit, .page-template-search-page-php #search-submit, body.activate #activation-form p.submit input, #group-settings-form .edit, #group-settings-form #save, .bbp-pagination-links .page-numbers, .bp-user .bbp-pagination-links .page-numbers, #group-creation-create, #group-creation-next, #group-creation-finish, #group-creation-previous, #group-request-send { background:#ff3434; text-shadow:none; border-top:none; border-left:none; border-right:none; border-bottom:none; }
+.rounder { border-top:1px solid #dddddd; border-left:1px solid #dddddd; border-right:1px solid #dddddd; }
+.row-spacer { height:0px; }
+table.forum-table tr td { border-bottom:1px solid #eaeaea; }
+.bbp-pagination .bbp-pagination-links a.page-numbers { color:#ffffff; }
+.bbp-pagination .bbp-pagination-links a.page-numbers.next, .bbp-pagination .bbp-pagination-links a.page-numbers.prev { color:#2c2c2c; }
+.widget_ddlogin #login-submit { background: url( "../images/alternative/p-key_10.png" ); background-repeat: no-repeat;}
+.wl-box { background: url( "../images/alternative/p-box_10.png" ); background-position:right bottom; background-repeat: no-repeat;}
+.wl-set { background: url( "../images/alternative/p-set_10.png" ); background-position:center bottom; background-repeat: no-repeat;}
+.wl-logout { background: url( "../images/alternative/p-lock_10.png" ); background-position:right bottom; background-repeat: no-repeat;}
+.blog-post { border:1px solid #dddddd; }
+.standard-form textarea, .standard-form input[type=text], .standard-form select, .standard-form input[type=password], .dir-search input[type=text] { border: 1px solid #cfcfcf; background:#ffffff; padding:9px; }
+#login-form #login-username, #login-form #login-pass { background:#ffffff; color:#2c2c2c; padding:7px 4px; border-top:1px solid #ba422d; border:1px solid #dddddd;box-shadow:none; }
+#page-user-login, #page-user-pass, .register-section input, .register-section input[type=text], .register-section input[type=password], .comment-content input[type=text], #respond textarea#comment, .wpcf7-text, .wpcf7-form-control-wrap textarea, #blogname, #blog_title, #group-request-membership-comments, .register-section input[type=email], #members_search { background:#ffffff; color:#2c2c2c; border-radius:5px; border:1px solid #dddddd!important; box-shadow:none; }
+#page-user-login, #page-user-pass:focus, .register-section input[type=text]:focus, .register-section input[type=password]:focus, .comment-content input[type=text]:focus, #respond textarea#comment:focus, #blogname:focus, #blog_title:focus, .register-section input[type=email]:focus { background:#ffffff; color:#2c2c2c; }
+.forum-lastposts-avatar img { padding:3px; border:1px solid #cfcfcf; box-shadow: 3px 3px 0px 0px #cfcfcf; }
+#sidebar #bbp_search { border:1px solid #cfcfcf; padding-top:6px; padding-bottom:6px; }
+#bbp_search_submit { padding:8px; }
+#search-page-border { border:1px solid #cfcfcf; }
+.my-notification a { color:#ffffff; }
+#respond .comment-content label { color:#464646!important; }

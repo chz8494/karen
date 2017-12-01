@@ -7,7 +7,7 @@
  */
 
 ?>
-
+[rev_slider alias="event1"]
 <div id="buddypress">
 
 	<?php
